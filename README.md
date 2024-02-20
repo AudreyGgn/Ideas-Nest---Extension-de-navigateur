@@ -15,6 +15,11 @@ Ideas Nest est une extension de navigateur conçue pour Google Chrome qui utilis
 
 Ce projet a été réalisé par un groupe de 4 apprenant·e·s à l'école Ada Tech School, sur une durée de sept jours.
 
+_Objectifs pédagogiques :_
+* Découvrir l’écosystème d’un navigateur et en explorer les mécanismes (DOM, moteur exécution JS,...)
+* Manipuler du HTML/CSS/JS
+* Apprendre à s’organiser en équipe (mob-programming, découpage des tâches, outils de suivi de projet...)
+
 ## Mises à jour / améliorations envisagées
 
 * Création de dossiers pour gérer les thèmes enregistrés
